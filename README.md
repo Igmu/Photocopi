@@ -15,7 +15,7 @@ nano camera1.py
 git config --global user.name "Igmu"
 git config --global user.email "IgmuHammerer@gmail.com"
 git init
-pip3
+
 pip3 install adafruit-circuitpython-neopixel
 sudo apt-get -y install git build-essential cmake pkg-config checkinstall
 sudo apt-get -y install libjpeg-dev libpng-dev libtiff-dev
